@@ -52,7 +52,7 @@ orjson==3.10.7
 packaging==24.1
 pillow==10.4.0
 psycopg2==2.9.9
-pyautogen==0.2.34
+ag2==0.2.34
 pydantic==2.8.2
 pydantic_core==2.20.1
 python-dotenv==1.0.1
